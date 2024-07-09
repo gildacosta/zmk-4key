@@ -18,5 +18,7 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_rp2040
-    shield: tidbit
+  - board: seeeduino_xiao_ble
+    shield: corne_left
+  - board: seeeduino_xiao_ble
+    shield: corne_right
